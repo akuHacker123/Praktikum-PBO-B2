@@ -1,7 +1,7 @@
 public class MainMahasiswa {
     public static void main(String[] args) {
         Mahasiswa m1 = new Mahasiswa();
-        Mahasiswa m2 = new Mahasiswa("101", "Galang", "Informatika");
+        Mahasiswa m2 = new Mahasiswa("123", "Budi", "Informatika");
         Mahasiswa m3 = new Mahasiswa(m2);
 
         m1.setProgramStudi();
