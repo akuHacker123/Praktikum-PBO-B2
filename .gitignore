@@ -3,3 +3,6 @@
 .vscode/
 bin/
 target/
+/Praktikum 10/jbdc_mhs_service/nbproject/private/
+/Praktikum 10/In-Lab/jbdc_mhs_service/nbproject/private/
+/Praktikum 10/In-Lab/jbdc_mhs_service/build/
